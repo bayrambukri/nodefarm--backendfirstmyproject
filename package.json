@@ -1,0 +1,27 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "A fullstack Node.js application for managing and displaying farm products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "farm",
+    "products",
+    "fullstack"
+  ],
+  "author": "NodeFarm Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+
+
