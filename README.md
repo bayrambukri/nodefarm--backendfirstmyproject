@@ -16,34 +16,6 @@ NodeFarm, taze ve organik ürünleri sergileyen modern bir fullstack Node.js uyg
 - **REST API**: Ürün verilerine programatik erişim
 - **Smooth Animations**: Kullanıcı deneyimini geliştiren animasyonlar
 
-## 🚀 Kurulum
-
-### Gereksinimler
-- Node.js (v14 veya üzeri)
-- npm veya yarn
-
-### Adım 1: Projeyi İndirin
-```bash
-git clone <repository-url>
-cd nodefarm
-```
-
-### Adım 2: Bağımlılıkları Yükleyin
-```bash
-npm install
-```
-
-### Adım 3: Uygulamayı Başlatın
-```bash
-# Geliştirme modunda (otomatik yeniden başlatma ile)
-npm run dev
-
-# Veya normal modda
-npm start
-```
-
-### Adım 4: Tarayıcıda Açın
-Tarayıcınızda `http://localhost:3000` adresine gidin.
 
 ## 📁 Proje Yapısı
 
